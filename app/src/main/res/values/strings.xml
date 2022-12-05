@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">PR25</string>
-    <string name="start">Start service</string>
-    <string name="stop">Stop service</string>
+    <string name="start">Start</string>
     </resources>
